@@ -79,8 +79,7 @@ Customer segmentation (loyal, new, at-risk, lost)
 
 Interactive dashboard for exploring sales KPIs
 
-📸 Example Dashboard Screenshot
-![Main Dashboard Preview](src/screenshots/Screenshot%202025-09-10%20222530.png)  
+📸 Example Dashboard Screenshot 
 ![Revenue Trend](src/screenshots/Screenshot%202025-09-10%20222424.png)  
 ![Top Products and Countries](src/screenshots/Screenshot%202025-09-10%20222518.png)  
 
