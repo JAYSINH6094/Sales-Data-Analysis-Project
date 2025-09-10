@@ -69,7 +69,8 @@ python src/eda.py
 bash
 Copy code
 streamlit run src/dashboard.py
-📊 Key Insights You’ll Get
+```
+##📊 Key Insights You’ll Get
 Revenue trends over time
 
 Best-selling products and top customers
