@@ -79,6 +79,6 @@ Customer segmentation (loyal, new, at-risk, lost)
 Interactive dashboard for exploring sales KPIs
 
 📸 Example Dashboard Screenshot
-<img width="1919" height="915" alt="Screenshot 2025-09-10 222530" src="https://github.com/user-attachments/assets/d4a8ac6f-1719-450f-aee0-dcc3e756fc17" />
+<img width="1919" height="915" alt="Screenshot 2025-09-10 222530" src="src/screenshots/Screenshot 2025-09-10 222424.png" />
 <img width="1919" height="755" alt="Screenshot 2025-09-10 222518" src="https://github.com/user-attachments/assets/fd4d82a8-96d1-4a5d-a2a2-32e73ed9fe91" />
 <img width="1919" height="789" alt="Screenshot 2025-09-10 222424" src="https://github.com/user-attachments/assets/c658d302-683c-4538-bca7-1753b775558f" />
